@@ -1,0 +1,14 @@
+{
+  "name": "Hello World",
+  "description": "Displays the string in props",
+  "elementName": "marcel-plugin-hello",
+  "files": ["index.html"],
+  "props": [
+    { 
+      "name": "title",
+      "description": "String that will be displayed", 
+      "type": "String", 
+      "defaultValue": "World"
+    }
+  ]
+}
