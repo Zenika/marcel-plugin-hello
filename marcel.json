@@ -1,0 +1,14 @@
+{
+  "eltName": "marcel-plugin-hello",
+  "name": "Hello World",
+  "frontend": {
+    "props": [
+      {
+        "name": "name",
+        "type": "string",
+        "description": "The name to be displayed",
+        "value": "World"
+      }
+    ]
+  }
+}
